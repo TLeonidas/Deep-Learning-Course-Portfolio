@@ -2,7 +2,7 @@
 
 This repository hosts most of my assignments for HCC's Deep Learning Spring '24 class. 
 
-## Course Assignments
+### Course Assignments
 
 - [Perceptron Timeline](https://github.com/TLeonidas/HCC-Deep-Learning-course-portfolio/blob/main/A01_ITA2376.pdf)
 - [VGG16: Reflective Journal](https://github.com/TLeonidas/HCC-Deep-Learning-course-portfolio/blob/main/L02_ITAI2376.pdf)
